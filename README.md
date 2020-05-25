@@ -1,5 +1,4 @@
-# GTFS
-# Code to visualize GTFS
+# Code to Visualize GTFS
 
 General Transit Feed Speculation is a commonly used data format, allowing public transit agencies to publish data in a standard format. 
 
